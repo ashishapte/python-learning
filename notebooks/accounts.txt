@@ -1,0 +1,5 @@
+100 Junes 24.5
+200 May 25.5
+300 Williams 26.5
+400 White 24.5
+500 Rich 24.5

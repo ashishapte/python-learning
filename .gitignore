@@ -1,2 +1,6 @@
 # created by virtualenv automatically
-*
+python_django/lib
+python_django/bin
+python_django/requirements.txt
+python_django/pyvenv.cfg
+.DS_Store
